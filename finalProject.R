@@ -1,4 +1,4 @@
-## Lien Ly - Final Project 
+## Lien Ly 
 ## Video Games Ratings Vs. Game Platforms 
 
 ## (1) ## 
