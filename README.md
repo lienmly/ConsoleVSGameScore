@@ -3,4 +3,4 @@ In this project, I used logistic regression to build prediction model: predictin
 
 This is rather a silly and kind of pointless prediction model... but I was curious! 
 
-Please visit my blog lienmly.net/blog to view full summary of this project. 
+Please visit [my blog] (lienmly.net/blog) to view full summary of this project. 
